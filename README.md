@@ -5,7 +5,7 @@
 
 - </> Required Software **XAMPP(apache, Mysql), VSCODE**
 
-- 🤜🤛 Team Dalam Pengembangan Project ini **Azmi(BackEnd), Bayu(BackEnd), Roziq(FrontEnd), Randy(FrontEnd)**
+- 🤜🤛 Team Dalam Pengembangan Project ini **<ul> <li> Azmi(BackEnd)</li> <li>Bayu(BackEnd)</li> <li>Roziq(FrontEnd)</li> <li>Randy(FrontEnd)</li> </ul>**
 
 - 🖥️ Recommend requirement **Intel I3 3TH, 4GB DDR3, 128Gb SSD, NETWORK**
 
